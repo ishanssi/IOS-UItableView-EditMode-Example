@@ -1,0 +1,449 @@
+TtebleviewEditMoade
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist" tebleviewEditMoade/tebleviewEditMoade-Info.plist
+cProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth" tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade" normal i386
+cGenerateDSYMFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade"
+cCopyStringsFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings" tebleviewEditMoade/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib"
+cTouch "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F551CFA0000000000244490
+t1330978042
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F551D040000000000353830
+t1330978052
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F551D250000000000905E40
+t1330978085
+s9461312
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth
+t2
+s0
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o
+t1343117178
+s62924
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o
+t1343120643
+s69324
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o
+t1343100878
+s3284
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/tebleviewEditMoade.LinkFileList
+c00000000506ACF6A00000000000002BD
+t1349177194
+s701
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app
+t1343120643
+s204
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM
+t1343120643
+s102
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist
+t1343100877
+s846
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/PkgInfo
+t1343100877
+s8
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings
+t1343100879
+s42
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/ViewController.nib
+t1343120299
+s1912
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+t1343120643
+s29396
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m
+c00000000500E16680000000000000957
+t1343100520
+s2391
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m
+c00000000500E668D0000000000000E87
+t1343121037
+s3719
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/InfoPlist.strings
+c00000000500E1668000000000000002D
+t1343100520
+s45
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib
+c00000000500E63A900000000000029CF
+t1343120297
+s10703
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m
+c00000000500E1668000000000000015B
+t1343100520
+s347
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch
+c00000000500E16680000000000000153
+t1343100520
+s339
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.pth
+t1343100878
+s4029676
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o
+t1343117178
+s62924
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o
+t1343100878
+s3284
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/tebleviewEditMoade.LinkFileList
+c00000000500E17CD000000000000029C
+t1343100877
+s668
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app
+t1343120617
+s204
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM
+t1343120617
+s102
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist
+t1343100877
+s846
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/PkgInfo
+t1343100877
+s8
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings
+t1343100879
+s42
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/ViewController.nib
+t1343120299
+s1912
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+t1343120617
+s29396
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/InfoPlist.strings
+c00000000500E1668000000000000002D
+t1343100520
+s45
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib
+c00000000500E63A900000000000029CF
+t1343120297
+s10703
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch
+c00000000500E16680000000000000153
+t1343100520
+s339
+
+NtebleviewEditMoade/tebleviewEditMoade-Info.plist
+c00000000500E16680000000000000494
+t1343100520
+s1172
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4b5b2cea061bb641^9f5744ea061bb641^---0#1#0#--18"Check dependencies36"30C3D8A3-8BE2-4DB4-99DC-B49A385D9D40-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370869994.965238
+e370869995.157322
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m8e5cf7ea061bb641^feb429eb061bb641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m0000000000000000^4662"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o tebleviewEditMoade/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o"36"60F91868-4639-495D-A826-123507C420DB-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364809978.588495
+e364809978.862045
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.md8d796fa8ebeb541^d2acdcfa8ebeb541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m0000000000000000^4508"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o tebleviewEditMoade/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/AppDelegate.m" -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/AppDelegate.o"36"EDFA3FF3-2677-4A2A-ACDA-9D454477A8B6-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370869994.961050
+e370869995.177388
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation ViewController
+o                ^
+o/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:25:1: note: method definition for 'searchTableView' not found
+o- (void) searchTableView;
+o^
+o/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:26:1: note: method definition for 'doneSearching_Clicked:' not found
+o- (void) doneSearching_Clicked:(id)sender;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m38f8f6ea061bb641^04cb2deb061bb641^-688"/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation ViewController                ^/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:25:1: note: method definition for 'searchTableView' not found- (void) searchTableView;^/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:26:1: note: method definition for 'doneSearching_Clicked:' not found- (void) doneSearching_Clicked:(id)sender;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-370869995#18446744073709551615#0#2(2@49"Method definition for 'searchTableView' not found-370869995#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@131"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h0000000000000000^24#0#24#0#569#0#14"Semantic Issue--2@56"Method definition for 'doneSearching_Clicked:' not found-370869995#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h0000000000000000^25#0#25#0#595#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m0000000000000000^14#16#14#16#230#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@131"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m0000000000000000^4680"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o tebleviewEditMoade/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o"36"FD85EF6E-8108-4D06-B475-1474FD0CFA3C-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364813443.417239
+e364813443.503343
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation ViewController
+o                ^
+o/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:25:1: note: method definition for 'searchTableView' not found
+o- (void) searchTableView;
+o^
+o/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:26:1: note: method definition for 'doneSearching_Clicked:' not found
+o- (void) doneSearching_Clicked:(id)sender;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m41f26a839cbeb541^14d094839cbeb541^-655"/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation ViewController                ^/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:25:1: note: method definition for 'searchTableView' not found- (void) searchTableView;^/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h:26:1: note: method definition for 'doneSearching_Clicked:' not found- (void) doneSearching_Clicked:(id)sender;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-364813443#18446744073709551615#0#2(2@49"Method definition for 'searchTableView' not found-364813443#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@120"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h0000000000000000^24#0#24#0#569#0#14"Semantic Issue--2@56"Method definition for 'doneSearching_Clicked:' not found-364813443#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.h0000000000000000^25#0#25#0#595#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m0000000000000000^14#16#14#16#230#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@120"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m0000000000000000^4526"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o tebleviewEditMoade/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.dia" -c "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/ViewController.m" -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/ViewController.o"36"34FFD926-DC43-4174-9169-16E45149EEFD-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370869994.965235
+e370869995.145056
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m01dcfcea061bb641^5d3725eb061bb641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m0000000000000000^4620"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o tebleviewEditMoade/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o"36"0223B01A-4EF6-469F-A7F2-55D51588AB65-
+
+CCompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364793678.324572
+e364793678.472100
+r1
+xCompileC
+xDerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.md045534e4fbeb541^05db784e4fbeb541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m0000000000000000^4466"CompileC DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o tebleviewEditMoade/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.dia" -c "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/main.m" -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/main.o"36"2A47C0A5-B344-432C-8281-C953F64B53E6-
+
+CCompileXIB "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib"
+r0
+
+CCompileXIB "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib"
+s364813099.472871
+e364813099.778449
+r1
+xCompileXIB
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compiling /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib4e27792b9bbeb541^d448c72b9bbeb541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib0000000000000000^1032"CompileXIB tebleviewEditMoade/en.lproj/ViewController.xib    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/ViewController.nib" "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"824E3D4F-19B9-4D99-A970-A8DE0CC911A1-
+
+CCopyStringsFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings" tebleviewEditMoade/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings" tebleviewEditMoade/en.lproj/InfoPlist.strings
+s364793679.143855
+e364793679.173741
+r1
+xCopyStringsFile
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings
+xtebleviewEditMoade/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy tebleviewEditMoade/en.lproj/InfoPlist.strings29ea244f4fbeb541^92792c4f4fbeb541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/en.lproj/InfoPlist.strings0000000000000000^759"CopyStringsFile DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj/InfoPlist.strings tebleviewEditMoade/en.lproj/InfoPlist.strings    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/en.lproj" -- tebleviewEditMoade/en.lproj/InfoPlist.strings36"DE0A9D0B-69C1-4EBC-94C5-33718C880DCA-
+
+CGenerateDSYMFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade"
+s370869995.743343
+e370869995.784355
+r1
+xGenerateDSYMFile
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Generating /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYMab5ebeeb061bb641^43c9c8eb061bb641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM/0000000000000000^983"GenerateDSYMFile DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM"36"3A454197-F5AE-421D-A13C-258864FD3632-
+
+CGenerateDSYMFile "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM" "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade"
+s364813443.554337
+e364813443.586253
+r1
+xGenerateDSYMFile
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Generating /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM00028e839cbeb541^32579e839cbeb541^---0#0#0#-19%DVTDocumentLocation2@181"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM/0000000000000000^950"GenerateDSYMFile DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade" -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app.dSYM"36"4DECD4CC-6C7C-4C5A-A027-376AC246122D-
+
+CLd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade" normal i386
+s370869995.200519
+e370869995.735607
+r1
+xLd
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Link /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade888433eb061bb641^3750bceb061bb641^---0#0#0#--1648"Ld DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade normal i386    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -filelist "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/tebleviewEditMoade.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade"36"E72A6B8C-DF08-4BB0-8A3D-6FE283D9D2D8-
+
+CLd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade" normal i386
+s364813443.510278
+e364813443.546466
+r1
+xLd
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Link /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade6bb682839cbeb541^dcd894839cbeb541^---0#0#0#--1593"Ld DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade normal i386    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" "-F/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" -filelist "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/Objects-normal/i386/tebleviewEditMoade.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/tebleviewEditMoade"36"9152DAE0-DFB3-4D72-8C46-36A93B685B81-
+
+CProcessInfoPlistFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist" tebleviewEditMoade/tebleviewEditMoade-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist" tebleviewEditMoade/tebleviewEditMoade-Info.plist
+s364793677.149512
+e364793677.154337
+r1
+xProcessInfoPlistFile
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist
+xtebleviewEditMoade/tebleviewEditMoade-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Process tebleviewEditMoade/tebleviewEditMoade-Info.plist5666264d4fbeb541^c230284d4fbeb541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Info.plist0000000000000000^937"ProcessInfoPlistFile DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist tebleviewEditMoade/tebleviewEditMoade-Info.plist    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tebleviewEditMoade/tebleviewEditMoade-Info.plist -genpkginfo "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app/Info.plist"36"C8C12BC6-0796-4DA8-B405-4C3C5B83EA7B-
+
+CProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth" tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370869994.280130
+e370869994.947363
+r1
+xProcessPCH
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth
+xtebleviewEditMoade/tebleviewEditMoade-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile tebleviewEditMoade/tebleviewEditMoade-Prefix.pchd4d747ea061bb641^0185f2ea061bb641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch0000000000000000^4463"ProcessPCH DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-duopttmqvjsbzddpqlqcfxvfagwk/tebleviewEditMoade-Prefix.pch.d"36"F7D505D0-E6AF-41AD-9794-D8A477F15422-
+
+CProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Index/PrecompiledHeaders/tebleviewEditMoade-Prefix-ctuhppuyqvzlksgxmoydmjivyxmh_ast/tebleviewEditMoade-Prefix.pch.pth" tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.pth" tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364793677.174480
+e364793678.316696
+r1
+xProcessPCH
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.pth
+xtebleviewEditMoade/tebleviewEditMoade-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile tebleviewEditMoade/tebleviewEditMoade-Prefix.pch8d2a2f4d4fbeb541^4512514e4fbeb541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/ishan/Desktop/PAST%20PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch0000000000000000^4320"ProcessPCH DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.pth tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-generated-files.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-own-target-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/tebleviewEditMoade-project-headers.hmap" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources/i386" "-I/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/tebleviewEditMoade.build/Debug-iphonesimulator/tebleviewEditMoade.build/DerivedSources" "-F/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.dia" -c "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/tebleviewEditMoade/tebleviewEditMoade-Prefix.pch" -o "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Intermediates/PrecompiledHeaders/tebleviewEditMoade-Prefix-fvktfhbvgrovzmbxkrqfllhlayoa/tebleviewEditMoade-Prefix.pch.d"36"4B2D9FB6-2903-4F5B-99F7-B083E6A81A39-
+
+CProcessPCH "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Index/PrecompiledHeaders/tebleviewEditMoade-Prefix-cexzolrwlaylxwdjitmkytkrbfxz_ast/tebleviewEditMoade-Prefix.pch.pth" tebleviewEditMoade/tebleviewEditMoade-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app"
+s370869995.802269
+e370869995.807169
+r1
+xTouch
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection174"Touch /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app2177cdeb061bb641^e4a2ceeb061bb641^---0#0#0#--572"Touch DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app"36"6D334EDD-FA45-4AF9-8DFC-282C586BF8A7-
+
+CTouch "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app"
+s364813443.602143
+e364813443.607294
+r1
+xTouch
+x/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Touch /Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app76389a839cbeb541^e5649e839cbeb541^---0#0#0#--550"Touch DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app    cd "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ishan/Desktop/PAST PROJECTS/xcodetesting/tebleviewEditMoade/DerivedData/tebleviewEditMoade/Build/Products/Debug-iphonesimulator/tebleviewEditMoade.app"36"F6C86F4E-C71C-4A4E-9A87-F5B8A0B3F844-
+
